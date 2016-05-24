@@ -20,3 +20,5 @@
 * Penterjemah (translator)
 
 ## Langkah-langkah
+
+## Penutup
